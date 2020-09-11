@@ -1,0 +1,13 @@
+Static HTML page
+
+Two inputs:
+	Item names
+	Price 
+Button to add item to list
+Remove button from list
+Display total
+
+If removed, total recalculated
+If empty items, not added
+If invalid imputs, red border
+
