@@ -1,1 +1,1 @@
-# pokemon_weight_calculator_mock
+# pokemon_weight_calculator_lab_class
